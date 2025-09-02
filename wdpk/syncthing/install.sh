@@ -29,7 +29,7 @@ if [ "${PLATFORM}" = "x86_64" ]; then
 else
 	PLATFORM="arm"
 fi
-VERSION="v2.0.3"
+VERSION="v2.0.5"
 
 MAINDIR="syncthing-linux-${PLATFORM}-${VERSION}"
 PACKAGE="${MAINDIR}.tar.gz"
