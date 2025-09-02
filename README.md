@@ -55,4 +55,4 @@ However, that project doesn't appear to be that active anymore, so I've updated 
 
 ## License
 
-Licensed under the [MIT License](./LICENSE).
+Licensed under the [BSD-3-Clause License](./LICENSE).
